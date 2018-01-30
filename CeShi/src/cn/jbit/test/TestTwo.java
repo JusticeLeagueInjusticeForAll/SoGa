@@ -6,5 +6,6 @@ public class TestTwo {
 		System.out.println("222");
 		System.out.println("22222");
 		System.out.println("小猪猪");
+		System.out.println("小猪猪2");
 	}
 }
